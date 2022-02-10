@@ -7,7 +7,7 @@
 ## Available Scripts
 
 Clone repo
-### `git clone https://gitlab.com/project-structure-templates/react-web-app.git`
+### `git clone https://github.com/idajimenez/react-typescript.git`
 
 Install packages
 ### `npm install` or `yarn install`
