@@ -1,4 +1,4 @@
-# Old.St Labs React-Typescript Web App Template
+# React-Typescript Web App Template
 
 ## TODO
 - set `animation={false}` to Modal and add a transition. This will fix the error `Warning: findDOMNode is deprecated in StrictMode`
